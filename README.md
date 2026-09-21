@@ -212,4 +212,4 @@ FTP Voyager is offered as a full free version, providing all features and update
 Get started with FTP Voyager today and experience the easiest way to manage your file transfers!
 
 ---
-**Last updated:** 2026-09-21 00:39:01 UTC
+**Last updated:** 2026-09-21 05:39:24 UTC
